@@ -107,18 +107,18 @@ print("Hình vuông")
 for i in range(n):
     for j in range(n):
         if j == 0 or j == n-1 or i == 0 or i == n - 1:
-            print("*",end='')
+            print("* ",end='')
         else:
-            print(' ',end='')
+            print('',end='  ')
     print()
 print("Hình tam giác")
 for i in range(n):
     # thêm khoảng trống vào ô tam giác vuông ngược
     for j in range(n - 1 - i):
-        print(' ',end='')
+        print('',end='  ')
     # vẽ tam giác vuông sau khi xoay 180 độ
     for j in range(i + 1):
-        print('*',end='')
+        print('* ',end='')
     print()
 print("Hai tam giác tương phản")
 mid=(n//2) + 1
@@ -126,15 +126,15 @@ for i in range(n):
     # vẽ tam giác ở nữa trên
     for j in range(mid):
         if i == mid - 1 or i == j or (j == 0 and i < mid):
-            print('*',end='')
+            print('* ',end='')
         else:
-            print(' ',end='')
+            print('',end='  ')
     # vẽ tam giác ở nữa dưới
     for j in range(mid,n):
         if i == mid - 1 or i == j or (j == n - 1 and i >= mid):
-            print('*',end='')
+            print('* ',end='')
         else:
-            print(' ',end='')
+            print('',end='  ')
     print()
 """
 EXERCISE 7: Tính S(x,n) = x + x^3/3! + x^5/5! + ... + x^(2n+1)/(2n+1)!
