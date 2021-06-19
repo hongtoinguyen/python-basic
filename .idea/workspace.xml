@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac0b85dc-674b-4168-a832-c3d94d7b2bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN/Chap3-Summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN/Chap3Exercise-DemSoNgayTrongThang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN/Chap3Exercise-GiaiPhuongTrinhBac2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN/Chap3Exercise-KiemTraNamNhuan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4-Summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4Exercise-KiemTraSoNguyenTo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4Exercise-TinhDaySo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4Exercise-XuatBangCuuChuong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-basic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1u4PSRppeY0xKVj0zU6joz8Clyq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,34 +43,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\python\python-basic\Chapter 4. CÁC VÒNG LẶP" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Project\python\python-basic\Chapter 2. CÁC KHÁI NIỆM CƠ BẢN" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chap3-Summary">
-    <configuration name="Chap2Exercise-PraticeMore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Project\python\python-basic\Chapter 2. CÁC KHÁI NIỆM CƠ BẢN\Chap2Exercise-PraticeMore.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Chap4-Summary">
     <configuration name="Chap3-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap3Exercise-DemSoNgayTrongThang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chap4-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN/Chap3Exercise-DemSoNgayTrongThang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4-Summary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap3Exercise-GiaiPhuongTrinhBac2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chap4Exercise-KiemTraSoNguyenTo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Project\python\python-basic\Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN\Chap3Exercise-GiaiPhuongTrinhBac2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4Exercise-KiemTraSoNguyenTo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap3Exercise-KiemTraNamNhuan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chap4Exercise-TinhDaySo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +125,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 3. CÁC BIỂU THỨC ĐIỀU KIỆN/Chap3Exercise-KiemTraNamNhuan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4Exercise-TinhDaySo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Chap4Exercise-XuatBangCuuChuong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4Exercise-XuatBangCuuChuong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Chap4-Summary" />
+        <item itemvalue="Python.Chap4Exercise-KiemTraSoNguyenTo" />
+        <item itemvalue="Python.Chap4Exercise-XuatBangCuuChuong" />
+        <item itemvalue="Python.Chap4Exercise-TinhDaySo" />
         <item itemvalue="Python.Chap3-Summary" />
-        <item itemvalue="Python.Chap3Exercise-KiemTraNamNhuan" />
-        <item itemvalue="Python.Chap3Exercise-GiaiPhuongTrinhBac2" />
-        <item itemvalue="Python.Chap3Exercise-DemSoNgayTrongThang" />
-        <item itemvalue="Python.Chap2Exercise-PraticeMore" />
       </list>
     </recent_temporary>
   </component>
