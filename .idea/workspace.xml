@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac0b85dc-674b-4168-a832-c3d94d7b2bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5-Summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5Exercise-GameDoanSo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5Exercise-TinhDiemTrungBinh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5Exercise-TinhDienTichTamGiac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6-Summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6Exercise-VietHamDeQuyFibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6Exercise-VietHamTinhBMI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6Exercise-VietHamTinhROI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4-Summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4-Summary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +53,7 @@
       <recent name="E:\Project\python\python-basic\Chapter 2. CÁC KHÁI NIỆM CƠ BẢN" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chap5-Summary">
-    <configuration name="Chap4-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 4. CÁC VÒNG LẶP/Chap4-Summary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Chap6-Summary">
     <configuration name="Chap5-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap5Exercise-GameDoanSo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chap6-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5Exercise-GameDoanSo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6-Summary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap5Exercise-TinhDiemTrungBinh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chap6Exercise-VietHamDeQuyFibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5Exercise-TinhDiemTrungBinh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6Exercise-VietHamDeQuyFibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap5Exercise-TinhDienTichTamGiac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chap6Exercise-VietHamTinhBMI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +125,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 5. CÁCH SỬ DỤNG MỘT SỐ HÀM QUAN TRỌNG THƯỜNG DÙNG/Chap5Exercise-TinhDienTichTamGiac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6Exercise-VietHamTinhBMI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Chap6Exercise-VietHamTinhROI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 6. CÁCH XÂY DỰNG HÀM/Chap6Exercise-VietHamTinhROI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Chap6-Summary" />
+        <item itemvalue="Python.Chap6Exercise-VietHamDeQuyFibonacci" />
+        <item itemvalue="Python.Chap6Exercise-VietHamTinhROI" />
+        <item itemvalue="Python.Chap6Exercise-VietHamTinhBMI" />
         <item itemvalue="Python.Chap5-Summary" />
-        <item itemvalue="Python.Chap4-Summary" />
-        <item itemvalue="Python.Chap5Exercise-TinhDiemTrungBinh" />
-        <item itemvalue="Python.Chap5Exercise-TinhDienTichTamGiac" />
-        <item itemvalue="Python.Chap5Exercise-GameDoanSo" />
       </list>
     </recent_temporary>
   </component>
