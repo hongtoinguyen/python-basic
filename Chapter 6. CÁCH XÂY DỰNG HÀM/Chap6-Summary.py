@@ -69,25 +69,25 @@ EXERCISE 3: Viết 1 hàm tính tổng ước số để áp dụng cho 
                  (số thịnh vượng là số có tổng các ước số của nó (không kể nó) thì lớn hơn nó.
                   ví dụ: 12 có các ước số là 1, 2, 3, 4, 6 và 12 < 1+2+3+4+6 -> 12 là số thịnh vượng)
 """
-print("*"*15,"EX3","*"*15)
-def tongUocSo(n):
-    """
-    Hàm tính tổng các ước số của một số
-    :param n: input số
-    :return: trả về tổng các ước số của số n
-    """
-    s=0
-    for i in range(1, n):
-        if n % i == 0:
-            s += i
-    return s
-
-def kiemTraSo(n):
-    if n == tongUocSo(n):
-        print(n, "là số hoàn thiện")
-    elif n < tongUocSo(n):
-        print(n, "là số thịnh vượng")
-    else:
-        print(n, "là số nguyên")
-
-kiemTraSo(7)
+# print("*"*15,"EX3","*"*15)
+# def tongUocSo(n):
+#     """
+#     Hàm tính tổng các ước số của một số
+#     :param n: input số
+#     :return: trả về tổng các ước số của số n
+#     """
+#     s=0
+#     for i in range(1, n):
+#         if n % i == 0:
+#             s += i
+#     return s
+#
+# def kiemTraSo(n):
+#     if n == tongUocSo(n):
+#         print(n, "là số hoàn thiện")
+#     elif n < tongUocSo(n):
+#         print(n, "là số thịnh vượng")
+#     else:
+#         print(n, "là số nguyên")
+#
+# kiemTraSo(7)

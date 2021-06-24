@@ -19,10 +19,3 @@ EXERCISE: Viết chương trình nhập vào một số, kiểm tra xem s
 #     if ask == "n":
 #         break
 # print("GOODBYE!!!")
-n=4
-for i in range(n):
-    for j in range(n - 1 - i):
-        print('for-1 i,j: ',i,j)
-    for j in range(i + 1):
-        print('for-2 i,j: ',i,j)
-    print()
