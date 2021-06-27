@@ -91,8 +91,8 @@ def getNegatives(your_str):
 #                 negative+=[-int(nega)]
 #     return negative
 
-str="abc-5xyz-123k91--p"
-print("Số âm là: ",NegativeNumberInStrings(str))
+# str="abc-5xyz-123k91--p"
+# print("Số âm là: ",NegativeNumberInStrings(str))
 """
 EXERCISE 3:     Viết chương trình tối ưu Chuỗi danh từ
                 Ví dụ:
