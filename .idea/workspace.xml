@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac0b85dc-674b-4168-a832-c3d94d7b2bb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 10. THIẾT KẾ GIAO DIỆN VỚI TKINTER/Chap10-Summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 10. THIẾT KẾ GIAO DIỆN VỚI TKINTER/Chap10Exercise-CongTruNhanChia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 10. THIẾT KẾ GIAO DIỆN VỚI TKINTER/Chap10Exercise-GiaiPTBac1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 10. THIẾT KẾ GIAO DIỆN VỚI TKINTER/Chap10Exercise-GiaiPTBac2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalProject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <recent name="E:\Project\python\python-basic\Chapter 2. CÁC KHÁI NIỆM CƠ BẢN" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chap10-Summary">
+  <component name="RunManager" selected="Python.FinalProject">
     <configuration name="Chap10-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chap9-Summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FinalProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9. XỬ LÝ TẬP TIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9. XỬ LÝ TẬP TIN/Chap9-Summary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FinalProject.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FinalProject" />
         <item itemvalue="Python.Chap10-Summary" />
         <item itemvalue="Python.Chap10Exercise-CongTruNhanChia" />
         <item itemvalue="Python.Chap10Exercise-GiaiPTBac2" />
         <item itemvalue="Python.Chap10Exercise-GiaiPTBac1" />
-        <item itemvalue="Python.Chap9-Summary" />
       </list>
     </recent_temporary>
   </component>
